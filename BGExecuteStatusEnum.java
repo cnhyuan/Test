@@ -12,5 +12,6 @@ public enum BGExecuteStatusEnum {
 	}
 
 	//测试添加Java类
+	//修改操作
 	
 }
