@@ -11,10 +11,8 @@ public enum BGExecuteStatusEnum {
 		return this.value;
 	}
 
-<<<<<<< HEAD
 	//测试添加Java类
 	//修改操作
-=======
->>>>>>> parent of 458fc85... add comment
+
 	
 }
