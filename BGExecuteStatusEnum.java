@@ -11,5 +11,6 @@ public enum BGExecuteStatusEnum {
 		return this.value;
 	}
 
+	//测试添加Java类
 	
 }
